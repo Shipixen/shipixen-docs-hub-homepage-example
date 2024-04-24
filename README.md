@@ -1,8 +1,5 @@
-Test
-==================
-
-#### Test domain
-Test domain
+Example of using Shipixen to create a docs hub.
+======================================================
 
 > This website was generated with [shipixen.com](https://shipixen.com).
 >
